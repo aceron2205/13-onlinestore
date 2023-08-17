@@ -6,12 +6,28 @@ This is an API CRUD for a Online Store
 ### Models
 
 Category
+
 Product
+
 Tag
 
-### Routes
 
-#### Products
+
+## Running Locally
+
+```bash
+npm install
+```
+
+```bash
+npm run seed
+```
+
+```bash
+npm run start
+```
+
+## Routes
 
 #### Tags
 
